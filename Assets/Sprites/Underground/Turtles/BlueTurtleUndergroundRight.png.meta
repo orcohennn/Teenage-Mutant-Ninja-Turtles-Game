@@ -1,0 +1,1373 @@
+fileFormatVersion: 2
+guid: 780ee02429d0fad48936db1c393396a9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f73fe511a8c04b824dfbd87d8a338
+      internalID: 632497624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 123
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d950a5c56cff7740ae96367f6cc6f35
+      internalID: 2084840872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 123
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496962e811b4dc40a8b1ea368c7f894
+      internalID: 1878007729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5135158, y: 0.3963752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b9fcdfd0de7ed43ae949bfb5856062
+      internalID: 1668152085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 123
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.2381975, y: 0.3963752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf6e2b459d83b242ae68d3be34b6a0a
+      internalID: 602718567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 123
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d28b8a7ab9076b448eb36ca825bab62
+      internalID: -1861842874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 123
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c048dccd2904d419a0dc025868fa96
+      internalID: 870239500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 123
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc83640a1d012d44ab732dcbf282ff0
+      internalID: 1528204808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 123
+        width: 16
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb3d5660d5f0d4297549d747c5e8e3
+      internalID: 1432323372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae6ec65892aaf44691f48ad2b60f16e
+      internalID: 327764719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 123
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac50e85aef88964aba1e464c89cc351
+      internalID: -801619610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 123
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7088151bc6af04c849e6fa52eb755a
+      internalID: 857137534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 101
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c44395daa863374d888261349a002fd
+      internalID: 495623437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 93
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41046070a120eb743bd4faf4cb763b1a
+      internalID: 1010701197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 134
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3bb2c440da4f240b06e46f6726445a
+      internalID: 1178404818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 134
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b7bf235461f874e99e3e01f9255463
+      internalID: 1930680926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc19cb066db09a41ba3791655ba11db
+      internalID: 714832385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 135
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be7e0d9805a784587bba2b6ec56b68
+      internalID: -2123189750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09adcefd1e1e47549a32a8a1e2b5861b
+      internalID: 491900650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c9c4a2e19053a4d8b9bfb3717edda6
+      internalID: 593345410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f63b94d0268584298d59b84be9cc4b
+      internalID: 991803360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 71
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f24d1485d951f4d91040c3bbb0c410
+      internalID: 556919185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670f126622a411428a4a3e9b0140c34
+      internalID: -1905687435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a779fa24e0ed04f8ce0467ba150111
+      internalID: 1916482596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a1866837196d49ac86866fe78157c
+      internalID: -842153076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbc58e5cbcedc84085199c7643bf518
+      internalID: 1728162525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183292a267cbf4e4f913b392c306c05f
+      internalID: 585442716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 71
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2344fc65bca914eb2bccc8d425bc34
+      internalID: 1977218319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 71
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941be94cd12f31f45937e7942075fb8e
+      internalID: -2122698885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 70
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efd51ac53b1fa1459ca4aad41af30fb
+      internalID: -726908074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 36
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971b2f0c21a91a49a747a345b98053e
+      internalID: -1513386881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 36
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1caefae9d09f94a933f9c24292cb57
+      internalID: -1797765171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 60
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6e7d4f5f5271741830a5df5336970d
+      internalID: 771131040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 36
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844f5a0a108baf49ab098bce2c754d3
+      internalID: -1699258274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 36
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eca9a08c1498d94da8eefd0b69cd86d
+      internalID: 785254250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_36
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 36
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4391d6c7a35b4f9b6be2ae5c29d41
+      internalID: 44369165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_37
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579cb83813ec9ff419fc079d61d235e8
+      internalID: -458460917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc30cc405261ca4080503fb790a95b2
+      internalID: 822850567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_39
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbdf1c0b2ad98a41a72497c62681ef8
+      internalID: -141332928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e858fcdbd945043be75e34c1938abf
+      internalID: 1098362200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac93f6d698e4f4788a8d00db4f3f08
+      internalID: -1530380403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 38
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383e86a62fef48543a58c0b93c53315e
+      internalID: 968633225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 39
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21035a0c004732409a18025f0204556
+      internalID: -1126132200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 39
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97417c3323c9d449683e8d569822c9
+      internalID: 698585978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 37
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd302b7e9579814eb97464229767ede
+      internalID: -808856223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 36
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff8a1bf36ef164aa9b2d9d600f417f
+      internalID: 1699131399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2e0adabe18934d9f88fbf6bdbab2b
+      internalID: 1671728953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_48
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 36
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3221bad1ce7994987e8e19924982af
+      internalID: -1392013146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3460059688a0ef44fa57e8b1bea69ca0
+      internalID: 2102923767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_50
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 36
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1932521eecca42a82723caada5b8b
+      internalID: -358024945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_51
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 39
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcdc44576db07044965a214cd7af07e
+      internalID: 2062902728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c6c20cb508d643ba4830a79b6f4e9
+      internalID: -839393233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_53
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e526d189288529469eae0c460520ab1
+      internalID: -1859373115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_54
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 36
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364fda86ef1e0034ab894c61f730dc21
+      internalID: 148791404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUnderground_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d68e27d86edb47808574867e9f9d1
+      internalID: -229993019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTurtleUndergroundRight_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.16824837, y: 0.39637554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4e5bc8718e4d54f9dc26305dd35559
+      internalID: -743858311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlueTurtleUndergroundRight_0: -743858311
+      BlueTurtleUnderground_0: 632497624
+      BlueTurtleUnderground_1: 2084840872
+      BlueTurtleUnderground_10: 327764719
+      BlueTurtleUnderground_11: -801619610
+      BlueTurtleUnderground_12: 857137534
+      BlueTurtleUnderground_13: 495623437
+      BlueTurtleUnderground_14: 1010701197
+      BlueTurtleUnderground_15: 1178404818
+      BlueTurtleUnderground_16: 1930680926
+      BlueTurtleUnderground_17: 714832385
+      BlueTurtleUnderground_18: -2123189750
+      BlueTurtleUnderground_19: 491900650
+      BlueTurtleUnderground_2: 1878007729
+      BlueTurtleUnderground_20: 593345410
+      BlueTurtleUnderground_21: 991803360
+      BlueTurtleUnderground_22: 556919185
+      BlueTurtleUnderground_23: -1905687435
+      BlueTurtleUnderground_24: 1916482596
+      BlueTurtleUnderground_25: -842153076
+      BlueTurtleUnderground_26: 1728162525
+      BlueTurtleUnderground_27: 585442716
+      BlueTurtleUnderground_28: 1977218319
+      BlueTurtleUnderground_29: -2122698885
+      BlueTurtleUnderground_3: 718091019
+      BlueTurtleUnderground_30: -726908074
+      BlueTurtleUnderground_31: -1513386881
+      BlueTurtleUnderground_32: -1797765171
+      BlueTurtleUnderground_33: 771131040
+      BlueTurtleUnderground_34: -1699258274
+      BlueTurtleUnderground_35: 785254250
+      BlueTurtleUnderground_36: 44369165
+      BlueTurtleUnderground_37: -458460917
+      BlueTurtleUnderground_38: 822850567
+      BlueTurtleUnderground_39: -141332928
+      BlueTurtleUnderground_4: 1668152085
+      BlueTurtleUnderground_40: 1098362200
+      BlueTurtleUnderground_41: -1530380403
+      BlueTurtleUnderground_42: 968633225
+      BlueTurtleUnderground_43: -1126132200
+      BlueTurtleUnderground_44: 698585978
+      BlueTurtleUnderground_45: -808856223
+      BlueTurtleUnderground_46: 1699131399
+      BlueTurtleUnderground_47: 1671728953
+      BlueTurtleUnderground_48: -1392013146
+      BlueTurtleUnderground_49: 2102923767
+      BlueTurtleUnderground_5: 602718567
+      BlueTurtleUnderground_50: -358024945
+      BlueTurtleUnderground_51: 2062902728
+      BlueTurtleUnderground_52: -839393233
+      BlueTurtleUnderground_53: -1859373115
+      BlueTurtleUnderground_54: 148791404
+      BlueTurtleUnderground_55: -229993019
+      BlueTurtleUnderground_6: -1861842874
+      BlueTurtleUnderground_7: 870239500
+      BlueTurtleUnderground_8: 1528204808
+      BlueTurtleUnderground_9: 1432323372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

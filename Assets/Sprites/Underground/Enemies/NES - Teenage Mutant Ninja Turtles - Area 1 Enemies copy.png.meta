@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 1e0a9e372bf30b04097a2d26a64a3d27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554c07a4028ddd540918054dd96f58bd
+      internalID: 757775444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 140
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc3a4affd0ca14fa95107b823222cb
+      internalID: 747691591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 136
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6fcabf6574ff478e78a8cb584c462
+      internalID: 751921845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 136
+        width: 20
+        height: 15
+      alignment: 9
+      pivot: {x: 0.42607766, y: 0.57392174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89432692442a88e47a5c2ed7f9dc98b7
+      internalID: -449090960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 130
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feea30addf76f24e91508be93db46d7
+      internalID: 693483267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 121
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f8c890dadab4b4bb1cfd0b9379dee2
+      internalID: 147197581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 122
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511038864bde18543be07c10ed1cd2c4
+      internalID: -2050944652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a0ed890969574c866c2db88a960fd
+      internalID: 1216675482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 105
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d8b34006f96243b906aac5b52ec94
+      internalID: 2143655709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b278e16136b2245889dac45cc0257d
+      internalID: -254206039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd12bc181ce8f545b65a592fe122145
+      internalID: -63326572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fbac8018268cf43943d58d27051e6d
+      internalID: -837575412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e9011dbc9c827449ebf67da17751a1
+      internalID: 1282082079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e71b057df80304bb2da7e8108222eb
+      internalID: 2117063056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8453e6356f9018428afd3a0db29244b
+      internalID: -3722175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269fff98ec3103544846ca613f0aff1c
+      internalID: -1884930989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 52
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447290bbdee32a446b490f81c161f89a
+      internalID: -1878822453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 52
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e7ec22a4b75d4ebc5a71ad15d31fa
+      internalID: 307363787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 52
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3ba11bfba6e7543bc250cdfc13e2b7
+      internalID: -1503146123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 51
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.71437347, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f8491e3c864c45b6d893187f55087
+      internalID: 1812959253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.76180714, y: 0.51056015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4a8412645de54da2241f12a43ab99
+      internalID: -1795046114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff72709aca0e14429b2237e3db18ca4
+      internalID: 1869549549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d364220ce6c3b0c469fc3c52314ffe55
+      internalID: 1615808362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ebd8b8b561d342930d00cbdda090c
+      internalID: 414360551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 29
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92191634eb43d14ebfe77305ca9adec
+      internalID: -1522108389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2be2b999efafa409ff3ef1dff48ba5
+      internalID: 1034909303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee71f11db8c674e47a46ff247fe9403e
+      internalID: 201289137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d8b78bdfc84e4089035408943ff76
+      internalID: 2110509988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440473d398b268a4c9efd32df92246ed
+      internalID: 1812496158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a215436d6e2c4c8fb77f458c98a30
+      internalID: -485199768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3edace04fe9bb478a56bd2e44b5e0c
+      internalID: -1909706497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee14664a9e0cf84888626b13c507d1f
+      internalID: -696228353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6009a2bd4b46f47b7d1a54484eae65
+      internalID: -75159545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7aeb4b42153e45be49d05ddd54174
+      internalID: -2094596211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c791970cf96f64486c528fedb16322
+      internalID: 1110525276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9f844fbb475a4b9d78d9b4902ef7e
+      internalID: -662464719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452b9cbc37f67e45a629278286e4989
+      internalID: 760612036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b6b73f11eb4d4cb510fef01cd5fc7
+      internalID: -1354000036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce51381d525d139418c374f5974bc502
+      internalID: 2077088077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 7
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6811968c30f8846afed2296a962674
+      internalID: -1252500277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3ff5d390e792418f9cb6799985100
+      internalID: 804552150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5720a73903a715848b3d4665a9964e1b
+      internalID: 697084651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_0: 757775444
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_1: 747691591
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_10: -63326572
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_11: -837575412
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_12: 1282082079
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_13: 2117063056
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_14: -3722175
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_15: -1884930989
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_16: -1878822453
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_17: 307363787
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_18: -1503146123
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_19: 1812959253
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_2: 751921845
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_20: -1795046114
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_21: 1869549549
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_22: 1615808362
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_23: 414360551
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_24: -1522108389
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_25: 1034909303
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_26: 201289137
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_27: 2110509988
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_28: 1812496158
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_29: -485199768
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_3: -449090960
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_30: -1909706497
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_31: -696228353
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_32: -75159545
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_33: -2094596211
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_34: 1110525276
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_35: -662464719
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_36: 760612036
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_37: -1354000036
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_38: 2077088077
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_39: -1252500277
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_4: 693483267
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_40: 804552150
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_41: 697084651
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_5: 147197581
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_6: -2050944652
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_7: 1216675482
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_8: 2143655709
+      NES - Teenage Mutant Ninja Turtles - Area 1 Enemies copy_9: -254206039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
