@@ -3,9 +3,9 @@
 ASCII Art Generator is a command-line program written in Java that converts images into ASCII art. It provides a simple interface for users to configure various parameters and generate ASCII art based on their preferences.
 
 ## Media
-<img src="ReadmeFiles/readmeImg1.png" alt="Description of Image" width="300" height="300">
-<img src="ReadmeFiles/readmeImg2.png" alt="Description of Image" width="300" height="300">
-<img src="ReadmeFiles/readmeImg3.png" alt="Description of Image" width="300" height="300">
+<img src="ReadmeFiles/readmeImg1.png" alt="Description of Image" width="400" height="300">
+<img src="ReadmeFiles/readmeImg2.png" alt="Description of Image" width="400" height="300">
+<img src="ReadmeFiles/readmeImg3.png" alt="Description of Image" width="400" height="300">
 
 
 ## Features
