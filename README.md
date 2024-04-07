@@ -20,7 +20,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://choos
 
 ## Credits
 This project was inspired by the original Teenage Mutant Ninja Turtles game developed by KONAMI in 1989.<br>
-The Sprite Resource (Animations and sprites).
+The Sprite Resource (Animations and sprites).<br>
 Youtube (Audio).
 
 
